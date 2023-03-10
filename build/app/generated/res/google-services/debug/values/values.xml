@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">637656095942-eegj6a3fk8f21p7c68lr2u02niu9o52l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">637656095942</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3RY7-9M4dxq2DACbAGKMZbLdIXSJUDhk</string>
+    <string name="google_app_id" translatable="false">1:637656095942:android:22983bf943ba846ff8cbc7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3RY7-9M4dxq2DACbAGKMZbLdIXSJUDhk</string>
+    <string name="google_storage_bucket" translatable="false">runomusic-21752.appspot.com</string>
+    <string name="project_id" translatable="false">runomusic-21752</string>
+</resources>
